@@ -1,10 +1,10 @@
 # Library Management System
 This program is a simple implementation of a library management system with four main options:
 
-#### **1.Book_Issue():** Allows a student to borrow a book from the library.
-#### **2.Deposit_Book():** Allows a student to return a book to the library.
-#### **3.Admin_Menu():** Displays the admin menu with further options.
-#### **4.Exit():** Exits the program.
+#### `1.Book_Issue():` Allows a student to borrow a book from the library.
+#### `2.Deposit_Book():` Allows a student to return a book to the library.
+#### `3.Admin_Menu():` Displays the admin menu with further options.
+#### `4.Exit():` Exits the program.
 # Admin Menu
 The `Admin_Menu()` option displays further 11 options for the library admin:
 
