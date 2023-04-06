@@ -5,7 +5,7 @@ This program is a simple implementation of a library management system with four
 
 **2.Deposit_Book()**: Allows a student to return a book to the library.
 
-**3.Admin_Menu(): **  Displays the admin menu with further options.
+**3.Admin_Menu()**: Displays the admin menu with further options.
 
 **4.Exit()**: Exits the program.
 # Admin Menu
@@ -15,7 +15,7 @@ The `Admin_Menu()` option displays further 11 options for the library admin:
 
 **2.DISPLAY ALL STUDENTS RECORD**: Displays all the student records currently available in the library database.
 
-**3.DISPLAY SPECIFIC STUDENT RECORD: **Allows the admin to search for a specific student record in the library database using the unique student ID and displays its details.
+**3.DISPLAY SPECIFIC STUDENT RECORD:** Allows the admin to search for a specific student record in the library database using the unique student ID and displays its details.
 
 **4.MODIFY STUDENT RECORD**: Allows the admin to modify an existing student record in the library database using the unique student ID.
 
